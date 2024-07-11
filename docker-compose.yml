@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  backend:
+    image: clevertec_test_1
+    ports:
+      - '8080:8080'
